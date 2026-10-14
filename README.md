@@ -115,7 +115,7 @@ Open **[ARCHITECTURE_DIAGRAM.html](ARCHITECTURE_DIAGRAM.html)** in your browser 
 
 ```bash
 # Clone the repository
-git clone https://github.com/KetanH-29/HeroSupportAI-CRM.git
+git clone https://github.com/KetanHu/HeroSupportAI-CRM.git
 cd HeroSupportAI-CRM
 
 # Create virtual environment
@@ -211,4 +211,4 @@ Use these to test the agent portal:
 ## Author
 
 **Ketan Hadkar**  
-GitHub: [@KetanH-29](https://github.com/KetanH-29)
+GitHub: [@KetanHu](https://github.com/KetanHu)
